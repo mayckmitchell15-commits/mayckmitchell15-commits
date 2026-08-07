@@ -11,5 +11,5 @@
 ##
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,mysql&theme=dark&perline=15" alt="My Skills" /></a>
-  
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux&theme=dark&perline=15" alt="My Skills" /></a> 
 
